@@ -1,0 +1,9 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>1a3dd44e-ce13-418f-bca3-51187a5697d4</FileID>
+  <OpenFiles>
+  	<File>Test-Module.ps1</File>
+	<File>MVPContributions.psd1</File>
+    <File>MVPContributions.psm1</File>
+  </OpenFiles>
+</ProjectState>
